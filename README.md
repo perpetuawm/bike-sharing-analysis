@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run Dashboard/dashboard_bike_sharing.py
+streamlit run dashboard_bike_sharing.py
 ```
