@@ -1,8 +1,5 @@
-# bike-sharing-analysis
-Analysis and dashboard for bike sharing dataset 
-
 # Bike Sharing Dashboard
-
+Analysis and dashboard for bike sharing dataset 
 ## Setup Environment - Anaconda
 ```
 conda create --name main-ds python=3.9
